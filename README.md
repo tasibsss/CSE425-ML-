@@ -1,1 +1,1 @@
-Lab Assignments of CSE427*
+Lab Assignments of CSE427
